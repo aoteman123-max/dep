@@ -1,0 +1,5 @@
+2020-06-12 20:22:24,065 INFO [root] [test_dep.py(test01_login:24)] - 登陆页面：
+2020-06-12 20:22:24,190 INFO [root] [test_dep.py(test02_insert:36)] - 添加页面：
+2020-06-12 20:22:24,306 INFO [root] [test_dep.py(test03_search:44)] - 查询页面：
+2020-06-12 20:22:24,410 INFO [root] [test_dep.py(test04_update:50)] - 修改页面：
+2020-06-12 20:22:24,516 INFO [root] [test_dep.py(test05_delete:56)] - 删除页面：

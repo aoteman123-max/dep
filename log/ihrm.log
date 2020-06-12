@@ -1,0 +1,15 @@
+2020-06-12 20:23:27,239 INFO [root] [test_dep.py(test01_login:24)] - 登陆页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'dbf7392d-c8dd-46ca-b3e5-e852af9fd590'}
+2020-06-12 20:23:27,362 INFO [root] [test_dep.py(test02_insert:36)] - 添加页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271417921888923648'}}
+2020-06-12 20:23:27,468 INFO [root] [test_dep.py(test03_search:44)] - 查询页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271417921888923648', 'pid': None, 'companyId': '1', 'name': '后勤部门00', 'code': '1001', 'managerId': None, 'manager': '喜羊0羊', 'introduce': '很好的一个部门', 'createTime': None}}
+2020-06-12 20:23:27,585 INFO [root] [test_dep.py(test04_update:50)] - 修改页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 20:23:27,696 INFO [root] [test_dep.py(test05_delete:56)] - 删除页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 20:23:44,892 INFO [root] [test_dep.py(test01_login:24)] - 登陆页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '8fd4263c-8682-4030-922c-dc8007061eb5'}
+2020-06-12 20:23:45,059 INFO [root] [test_dep.py(test02_insert:36)] - 添加页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271417996136493056'}}
+2020-06-12 20:23:45,181 INFO [root] [test_dep.py(test03_search:44)] - 查询页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271417996136493056', 'pid': None, 'companyId': '1', 'name': '后勤部门00', 'code': '1001', 'managerId': None, 'manager': '喜羊0羊', 'introduce': '很好的一个部门', 'createTime': None}}
+2020-06-12 20:23:45,293 INFO [root] [test_dep.py(test04_update:50)] - 修改页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 20:23:45,402 INFO [root] [test_dep.py(test05_delete:56)] - 删除页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 20:24:12,461 INFO [root] [test_dep.py(test01_login:24)] - 登陆页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '8d583aae-1f37-4e14-8c8b-34619d16e374'}
+2020-06-12 20:24:12,618 INFO [root] [test_dep.py(test02_insert:36)] - 添加页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271418111676985344'}}
+2020-06-12 20:24:12,715 INFO [root] [test_dep.py(test03_search:44)] - 查询页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271418111676985344', 'pid': None, 'companyId': '1', 'name': '后勤部门00', 'code': '1001', 'managerId': None, 'manager': '喜羊0羊', 'introduce': '很好的一个部门', 'createTime': None}}
+2020-06-12 20:24:12,847 INFO [root] [test_dep.py(test04_update:50)] - 修改页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 20:24:12,950 INFO [root] [test_dep.py(test05_delete:56)] - 删除页面：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
